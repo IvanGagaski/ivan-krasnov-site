@@ -1,0 +1,22 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <!-- Tab title -->
+  <title>Ivan Krasnov</title>
+
+  <!-- Description shown in Google and link previews -->
+  <meta name="description" content="Ivan Krasnov — writer, editor, translator, and musician based in Berlin." />
+
+  <!-- Link preview thumbnail (Open Graph) -->
+  <meta property="og:title" content="Ivan Krasnov" />
+  <meta property="og:description" content="Writer, editor, translator, and musician based in Berlin." />
+  <meta property="og:image" content="/src/assets/ivan-krasnov-headshot-2025.avif" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter/X card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Ivan Krasnov" />
+  <meta name="twitter:description" content="Writer, editor, translator, and musician based in Berlin." />
+  <meta name="twitter:image" content="/src/assets/ivan-krasnov-headshot-2025.avif" />
+</head>
